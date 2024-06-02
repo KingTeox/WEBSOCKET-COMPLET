@@ -1,0 +1,28 @@
+{
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "name": "websocket-services",
+  "version": "0.0.1",
+  "description": "Loading...",
+  "main": "./out/index.js",
+  "scripts": {
+    "test": "echo \"Loaded Script\" && exit 1"
+  },
+  "keywords": [
+    "WebSocket",
+    "MySQL",
+    "MongoDB",
+    "TS",
+    "TypeScript",
+    "Node",
+    "Node JS",
+    "Client",
+    "Server",
+    "Database",
+    "Primary",
+    "Secondary"
+  ],
+  "author": "KingTeox",
+  "license": "ISC"
+}
