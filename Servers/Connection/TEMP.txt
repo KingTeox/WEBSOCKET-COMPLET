@@ -1,2 +1,2 @@
 
-Server Balancer, redicting to Primary or Secondary Server, depending on availability.
+Server Balancer, Redirect to Primary Server or Secondary Server, Depending on Availability.
