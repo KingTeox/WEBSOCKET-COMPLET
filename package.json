@@ -5,9 +5,10 @@
   "name": "websocket-services",
   "version": "0.0.1",
   "description": "Loading...",
-  "main": "./out/index.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Loaded Script\" && exit 1"
+    "start": "echo \"Start Loaded\" && node ./out/index.js && pause",
+    "build": "echo \"Build Loaded\" && tsc && echo \"Builded :)\" exit 1"
   },
   "keywords": [
     "WebSocket",
